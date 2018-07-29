@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bca",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"ta",
+				"grid-template-areas"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"bo",
+				"border-spacing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"sort",
+				"sortedArray"
+			],
+			[
+				"a",
+				"aArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dhyey/Desktop/webpages/contact.html",
+		"/C/Users/dhyey/Desktop/webpages/ourbus.html",
+		"/C/Users/dhyey/Desktop/webpages/about.html",
+		"/C/Users/dhyey/Desktop/webpages/home.html",
+		"/C/Users/dhyey/Desktop/webpages/style.css",
+		"/C/Users/dhyey/Desktop/webpages/G3DMP.html",
+		"/C/Users/dhyey/Desktop/webpages/webpage1.html",
+		"/C/Users/dhyey/Desktop/webpages/1.jpg",
+		"/C/Users/dhyey/Desktop/webpages/71LbCe3lpsL._SL1500_.jpg",
+		"/C/Users/dhyey/Desktop/h1.html",
+		"/C/Users/dhyey/Desktop/html.html",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/views.py",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/models.py",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/workshop/urls.py",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/templates/post_list.html",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/admin.py",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/migrations/0001_initial.py",
+		"/C/Users/dhyey/Desktop/HackPrepBlog-master/HackPrepBlog-master/blog/views.py",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/templates/hello.html",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/templates/index.html",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/blog/templates/base.html",
+		"/C/Users/dhyey/Desktop/hackprepblog/workshop/workshop/settings.py",
+		"/C/Users/dhyey/Desktop/hackprep/file.html",
+		"/C/Users/dhyey/Desktop/hachprep/python.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"%;\n",
+			"purple",
+			"white",
+			"purple"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webpage1.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
